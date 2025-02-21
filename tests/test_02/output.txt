@@ -1,0 +1,18 @@
+
+Menu:
+1. Greet User
+2. Check Even/Odd
+3. Exit
+Enter your choice (1-3): Hello! Welcome!
+
+Menu:
+1. Greet User
+2. Check Even/Odd
+3. Exit
+Enter your choice (1-3): Enter an integer: 5 is an Odd number.
+
+Menu:
+1. Greet User
+2. Check Even/Odd
+3. Exit
+Enter your choice (1-3): Exiting program. Goodbye!

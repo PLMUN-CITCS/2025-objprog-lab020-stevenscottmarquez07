@@ -1,0 +1,6 @@
+
+Menu:
+1. Greet User
+2. Check Even/Odd
+3. Exit
+Enter your choice (1-3): Exiting program. Goodbye!
